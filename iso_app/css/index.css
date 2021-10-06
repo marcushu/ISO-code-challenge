@@ -1,0 +1,32 @@
+#body-card {
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+}
+
+#submit-btn {
+    display: block;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: #0071F5;
+    outline: none;
+    border: none;
+    border-radius: 35px;
+    padding: 20px;
+    font-size: 18px;
+}
+
+#subscriberForm {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
+#transforming-text {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#connect-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+}
